@@ -1,0 +1,12 @@
+{
+  "name": "event-emiter",
+  "version": "0.1.0",
+  "repo": "myfreax/event-emiter",
+  "description": "Node.JS eventEmiter in c",
+  "keywords": ["event", "javascript", "event-emiter","c"],
+  "license": "MIT",
+  "src": ["src/event.c", "src/event.h"],
+  "dependencies": {
+    "clib": "~0.2.0"
+  }
+}
